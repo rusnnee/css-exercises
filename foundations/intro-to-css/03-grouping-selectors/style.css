@@ -1,7 +1,8 @@
 /* Add CSS Styling */
-.both {
+.b1,
+.b2 {
     font-size: 28px;
-    font: Helvetica, "Times New Roman", sans-serif;
+    font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
 .b1 {
